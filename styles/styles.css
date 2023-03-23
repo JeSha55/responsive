@@ -44,3 +44,11 @@ nav a:hover{
         padding: 10 px 0px;
     }
 } 
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
